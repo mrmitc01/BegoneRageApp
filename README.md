@@ -180,4 +180,4 @@ The easiest way to setup your server is using the [one-button-click](https://git
 ### Heroku
 The easiest way to setup your dashboard is using the [one-button-click](https://github.com/netreconlab/parse-hipaa-dashboard#heroku) deplyment method for [parse-hipaa-dashboard](https://github.com/netreconlab/parse-hipaa-dashboard).
 
-Code is available upon request
+## Code is available upon request
