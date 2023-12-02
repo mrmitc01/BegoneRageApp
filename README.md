@@ -7,9 +7,7 @@ An anger management application built off of [CareKit](https://github.com/careki
 ### Demo Video
 To learn more about this application, watch the video below:
 
-<a href="https://www.youtube.com/watch?feature=player_embedded&v=ApflyJs3JTE
-" target="_blank"><img src="https://user-images.githubusercontent.com/70441591/207138608-b329a9a0-ca80-409e-8dfb-2b766a6bfafe.png"
-alt="Begone Rage demo video" width="190" height="180" border="10" /></a>
+https://github.com/mrmitc01/BegoneRageApp/assets/70441591/e0b4d900-e5cf-4bfc-909d-327d0957c161
 
 ### Designed for the following users
 This app is designed for those who seek to reduce their feelings of anger and take better control of their behavior and the anger they exhibit. It will benefit users by enabling them to track various statistics about their anger, offering ways to vent their anger, and providing tips on how to calm down. Completing the tasks offered and the ones users create on their own will assist them in having a happier and more calm mindset and experiencing fewer instances of significant frustration and outbursts.
